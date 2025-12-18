@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Arthur Diniz 👋</h1>
 
 <h3 align="center">
-Automation Engineer • Python Developer • AI & Machine Learning • Web Automation • Data Engineering • RPA • Selenium Specialist
+Automation Developer Junior • Python Developer • AI & Machine Learning • Web Automation • Data Engineering • RPA • Selenium Specialist
 </h3>
 
 ---
