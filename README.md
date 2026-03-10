@@ -35,9 +35,6 @@ Sou especializado em construir sistemas que transformam fluxos de trabalho manua
 ![REST](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
 
 ### Backend e APIs
-![REST](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
-
-### Backend e APIs API](https://img.shields.io/badge/REST%20API-000000?style=for-the-badge)
 ![Primavera](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
 ### Bancos de dados
