@@ -1,57 +1,58 @@
 <h1 align="center">Hi, I'm Arthur Diniz 👋</h1>
 
 <h3 align="center">
-Automation Developer Junior • Python Developer • AI & Machine Learning • Web Automation • Data Engineering • RPA • Selenium Specialist
+Backend Developer • Java • Python • REST APIs • Automation • Data Systems
 </h3>
 
 ---
 
 ## 🚀 About Me
 
-I'm a Brazilian **Automation & AI Developer** focused on building intelligent, scalable and production-ready solutions using:
+I'm a Brazilian **Backend Developer** focused on building scalable systems, APIs and automation pipelines.
 
-- **Python**
-- **Artificial Intelligence & Machine Learning**
-- **Selenium / Playwright**
-- **RPA & Web Automation**
-- **Data Engineering & SQL Databases**
-- **Backend Development & APIs**
+My main experience includes:
 
-I create systems that transform slow manual processes into **high-performance automated pipelines** with intelligent workflows.
+- **Backend Development (Java / Python)**
+- **REST API Design & Integration**
+- **SQL Databases**
+- **Automation & Data Pipelines**
+- **Web Scraping & System Integrations**
+- **AI-powered automation tools**
+
+I specialize in building systems that transform manual workflows into **automated, reliable and scalable solutions**.
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack
 
-### **Languages**
+### Languages
+![Java](https://img.shields.io/badge/Java-E76F00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
 
-### **Automation & Web**
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
-![Scrapy](https://img.shields.io/badge/Scrapy-60A839?style=for-the-badge)
+### Backend & APIs
+![REST API](https://img.shields.io/badge/REST%20API-000000?style=for-the-badge)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
-### **AI & Machine Learning**
-![MachineLearning](https://img.shields.io/badge/Machine%20Learning-000000?style=for-the-badge&logo=opencv&logoColor=white)
-![DeepLearning](https://img.shields.io/badge/Deep%20Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![DataScience](https://img.shields.io/badge/Data%20Science-1D3557?style=for-the-badge&logo=anaconda&logoColor=white)
-
-### **Databases**
+### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### **DevOps & Cloud**
+### Automation & Data
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+
+### DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHubActions](https://img.shields.io/badge/GitHub%20Actions-000000?style=for-the-badge&logo=githubactions&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -63,75 +64,75 @@ I create systems that transform slow manual processes into **high-performance au
 
 ---
 
-## 🧩 Real-World Professional Projects
+## 💻 Featured Projects
 
-### 🔹 **Automated Vehicle Systems (Volkswagen & Ford)**  
-Using **Python**, **APIs**, **Machine Learning**, **Web Automation**, and **AI**, I developed systems that:
+### 🔹 Backend API for Data Automation
+A REST API designed to process and manage operational data.
 
-- Automate **vehicle registration workflows** for dealerships  
-- Perform **web scraping** and advanced data enrichment  
-- Use AI to analyze messages and identify vehicles  
-- Integrate SQL databases automatically  
-- Generate complete operational and performance reports  
+Features:
+- API endpoints for data ingestion
+- SQL database integration
+- automated processing pipelines
+- data reporting
 
-**Technologies:** Python, Selenium, REST API, SQLite, Pandas, AI, OCR, Enterprise Automation.
-
----
-
-### 🔹 **Automated Social Media Carousel & Story Generator**
-A complete system capable of:
-
-- Generating fully automated Instagram carousels  
-- Creating ready-to-post stories  
-- Applying intelligent dynamic templates  
-- Integrating with image APIs and AI models  
-
-**Technologies:** Python, Pillow (PIL), Generative AI.
+Tech: **Java / Python / SQL / REST APIs**
 
 ---
 
-### 🔹 **Automated Performance & Sales Report Generator**
-Used by automotive and real-estate companies:
+### 🔹 Intelligent Data Extraction System
+System capable of extracting structured information from documents and web sources.
 
-- Automatically retrieves data from multiple sources  
-- Processes large and complex spreadsheets  
-- Generates professional reports (PDF, Excel, Image)  
-- Uses AI to deliver insights and analytics  
+Features:
+- OCR document parsing
+- automated web scraping
+- data normalization
+- database storage
 
-**Technologies:** Python, Pandas, Matplotlib, SQL, AI.
+Tech: **Python / Selenium / OCR / Pandas / SQLite**
 
 ---
 
-### 🔹 **WhatsApp Business Bot + Automated Analytics**
-A professional bot system that:
+### 🔹 Automated Business Reports System
+A system that automatically generates analytics reports for business operations.
 
-- Receives and replies to messages automatically  
-- Uses AI for message classification  
-- Generates analytics on:  
-  - Message volume  
-  - Response patterns  
-  - Resolution rate  
-  - Most frequent topics  
+Features:
+- automated data collection
+- data transformation
+- report generation (PDF / Excel)
+- analytics dashboards
 
-**Technologies:** Python, WhatsApp API, AI, Databases, Automation.
+Tech: **Python / Pandas / SQL**
+
+---
+
+### 🔹 WhatsApp Business Automation Bot
+Automation system capable of processing and analyzing incoming business messages.
+
+Features:
+- automated message handling
+- classification using AI
+- conversation analytics
+- operational dashboards
+
+Tech: **Python / APIs / Databases / AI**
 
 ---
 
 ## 🎯 Career Goals
 
-- Work with **international teams** as an Automation/AI Engineer  
-- Build robust automation systems using **Python + AI**  
-- Become a senior engineer specialized in intelligent automation workflows  
-- Contribute to global open-source automation tools  
+- Become a **Backend Engineer**
+- Build scalable systems and APIs
+- Work with international engineering teams
+- Contribute to open-source backend and automation tools
 
 ---
 
 ## 🌐 Connect with Me
 
-📩 **Email:** arthurdnz.dev@gmail.com  
-🔗 **LinkedIn:** https://linkedin.com/in/arthurdnz.dev  
-💻 **GitHub:** https://github.com/arthurdnz-dev  
+📩 Email: **arthurdnz.dev@gmail.com**  
+🔗 LinkedIn: **linkedin.com/in/arthurdnz.dev**  
+💻 GitHub: **github.com/arthurdnz-dev**
 
 ---
 
-<h3 align="center">🔥 If you like my work, feel free to star the repositories!</h3>
+<h3 align="center">⭐ If you like my projects, feel free to star them!</h3>
