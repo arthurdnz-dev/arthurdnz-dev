@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Arthur Diniz 👋</h1>
+<h1 align="center">Hi, I'm Arthur Diniz</h1>
 
 <h3 align="center">
 Backend Developer • Java • Python • REST APIs • Automation • Data Systems
@@ -6,7 +6,7 @@ Backend Developer • Java • Python • REST APIs • Automation • Data Syst
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I'm a Brazilian **Backend Developer** focused on building scalable systems, APIs and automation pipelines.
 
@@ -23,7 +23,7 @@ I specialize in building systems that transform manual workflows into **automate
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages
 ![Java](https://img.shields.io/badge/Java-E76F00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -52,7 +52,7 @@ I specialize in building systems that transform manual workflows into **automate
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -64,9 +64,9 @@ I specialize in building systems that transform manual workflows into **automate
 
 ---
 
-## 💻 Featured Projects
+## Featured Projects
 
-### 🔹 Backend API for Data Automation
+### Backend API for Data Automation
 A REST API designed to process and manage operational data.
 
 Features:
@@ -79,7 +79,7 @@ Tech: **Java / Python / SQL / REST APIs**
 
 ---
 
-### 🔹 Intelligent Data Extraction System
+### Intelligent Data Extraction System
 System capable of extracting structured information from documents and web sources.
 
 Features:
@@ -92,7 +92,7 @@ Tech: **Python / Selenium / OCR / Pandas / SQLite**
 
 ---
 
-### 🔹 Automated Business Reports System
+### Automated Business Reports System
 A system that automatically generates analytics reports for business operations.
 
 Features:
@@ -105,7 +105,7 @@ Tech: **Python / Pandas / SQL**
 
 ---
 
-### 🔹 WhatsApp Business Automation Bot
+### WhatsApp Business Automation Bot
 Automation system capable of processing and analyzing incoming business messages.
 
 Features:
@@ -118,7 +118,7 @@ Tech: **Python / APIs / Databases / AI**
 
 ---
 
-## 🎯 Career Goals
+## Career Goals
 
 - Become a **Backend Engineer**
 - Build scalable systems and APIs
@@ -127,12 +127,12 @@ Tech: **Python / APIs / Databases / AI**
 
 ---
 
-## 🌐 Connect with Me
+## Connect with Me
 
-📩 Email: **arthurdnz.dev@gmail.com**  
-🔗 LinkedIn: **linkedin.com/in/arthurdnz.dev**  
-💻 GitHub: **github.com/arthurdnz-dev**
+Email: **arthurdnz.dev@gmail.com**  
+LinkedIn: **linkedin.com/in/arthurdnz.dev**  
+GitHub: **github.com/arthurdnz-dev**
 
 ---
 
-<h3 align="center">⭐ If you like my projects, feel free to star them!</h3>
+<h3 align="center">If you like my projects, feel free to star them!</h3>
