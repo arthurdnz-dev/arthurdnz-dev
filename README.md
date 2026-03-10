@@ -58,9 +58,9 @@ Sou especializado em construir sistemas que transformam fluxos de trabalho manua
 
 <div align="center">
 
-![Arthur GitHub Estatísticas](https://github-readme-stats.vercel.app/api?username=arthurdnz-dev&show_icons=true&theme=tokyonight&hide_title=true&count_private=true)
+![Estatísticas](https://github-readme-stats.vercel.app/api?username=arthurdnz-dev&show_icons=true&theme=tokyonight&count_private=true)
 
-![Principais Idiomas](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurdnz-dev&layout=compact&theme=tokyonight)
+![Idiomas](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurdnz-dev&layout=compact&theme=tokyonight)
 
 </div>
 
